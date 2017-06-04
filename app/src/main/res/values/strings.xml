@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CollapsingToolbar Example</string>
+    <string name="pageone">Page 1</string>
+    <string name="pagetwo">Page 2</string>
+</resources>
